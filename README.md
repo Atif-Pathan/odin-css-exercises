@@ -36,7 +36,7 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 
 ## MY SOLUTIONS
 
-- 01: CSS METHODS: https://atif-pathan.github.io/odin-css-exercises/foundations/01-css-methods/
-
+- 01: CSS Methods: https://atif-pathan.github.io/odin-css-exercises/foundations/01-css-methods/
+- 02: Class & ID Selectors: https://atif-pathan.github.io/odin-css-exercises/foundations/02-class-id-selectors/
 
 
