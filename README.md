@@ -39,5 +39,6 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - 01: CSS Methods: https://atif-pathan.github.io/odin-css-exercises/foundations/01-css-methods/
 - 02: Class & ID Selectors: https://atif-pathan.github.io/odin-css-exercises/foundations/02-class-id-selectors/
 - 03: Grouping Selectors: https://atif-pathan.github.io/odin-css-exercises/foundations/03-grouping-selectors
+- 04: Chaining Selectors: https://atif-pathan.github.io/odin-css-exercises/foundations/04-chaining-selectors
 
 
