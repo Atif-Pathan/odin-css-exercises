@@ -41,4 +41,4 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - 03: Grouping Selectors: https://atif-pathan.github.io/odin-css-exercises/foundations/03-grouping-selectors
 - 04: Chaining Selectors: https://atif-pathan.github.io/odin-css-exercises/foundations/04-chaining-selectors
 - 05: Descendant Combinator: https://atif-pathan.github.io/odin-css-exercises/foundations/05-descendant-combinator
-
+- 06: Cascade Fix: https://atif-pathan.github.io/odin-css-exercises/foundations/06-cascade-fix
